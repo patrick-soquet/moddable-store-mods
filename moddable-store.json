@@ -1,0 +1,32 @@
+{
+	"tech.moddable.eink-base": {
+		"mods": [
+			{
+				"path": "eink-custom",
+			},
+			{
+				"path": "eink-fortune",
+			},
+			{
+				"path": "eink-holiday",
+			}
+		],
+	},
+	"tech.moddable.runmod": {
+		"mods": [
+			{
+				"path": "moddrag",
+			}
+		],
+	},
+	"tech.moddable.thermostat-base": {
+		"mods": [
+			{
+				"path": "thermostat-bubbles",
+			},
+			{
+				"path": "thermostat-bubbles-plus",
+			},
+		]
+	},
+}
