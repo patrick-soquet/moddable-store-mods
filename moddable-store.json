@@ -2,9 +2,6 @@
 	"tech.moddable.eink-base": {
 		"mods": [
 			{
-				"path": "eink-custom",
-			},
-			{
 				"path": "eink-fortune",
 			},
 			{
