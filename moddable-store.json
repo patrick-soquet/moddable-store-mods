@@ -25,14 +25,16 @@
 	"tech.moddable.thermostat-base": {
 		"mods": [
 			{
+				"title": "Bubbles",
 				"path": "thermostat-bubbles",
 				"author": "Moddable",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+				"description": "Display features in brightly colored bubbles",
 			},
 			{
+				"title": "Bubbles Plus",
 				"path": "thermostat-bubbles-plus",
 				"author": "Moddable",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+				"description": "Display features in brightly colored bubbles and add the time, date, and weather forecast",
 			},
 		]
 	},
